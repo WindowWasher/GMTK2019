@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 79766434ee54b34429ba2101252c1c12
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HelpText_0
+    21300002: HelpText_1
+    21300004: HelpText_2
+    21300006: HelpText_3
+    21300008: HelpText_4
+    21300010: HelpText_5
+    21300012: HelpText_6
+    21300014: HelpText_7
+    21300016: HelpText_8
+    21300018: HelpText_9
+    21300020: HelpText_10
+    21300022: HelpText_11
+    21300024: HelpText_12
+    21300026: HelpText_13
+    21300028: HelpText_14
+    21300030: HelpText_15
+    21300032: HelpText_16
+    21300034: HelpText_17
+    21300036: HelpText_18
+    21300038: HelpText_19
+    21300040: HelpText_20
+    21300042: HelpText_21
+    21300044: HelpText_22
+    21300046: HelpText_23
+    21300048: HelpText_24
+    21300050: HelpText_25
+    21300052: HelpText_26
+    21300054: HelpText_27
+    21300056: HelpText_28
+    21300058: HelpText_29
+    21300060: HelpText_30
+    21300062: HelpText_31
+    21300064: HelpText_32
+    21300066: HelpText_33
+    21300068: HelpText_34
+    21300070: HelpText_35
+    21300072: HelpText_36
+    21300074: HelpText_37
+    21300076: HelpText_38
+    21300078: HelpText_39
+    21300080: HelpText_40
+    21300082: HelpText_41
+    21300084: HelpText_42
+    21300086: HelpText_43
+    21300088: HelpText_44
+    21300090: HelpText_45
+    21300092: HelpText_46
+    21300094: HelpText_47
+    21300096: HelpText_48
+    21300098: HelpText_49
+    21300100: HelpText_50
+    21300102: HelpText_51
+    21300104: HelpText_52
+    21300106: HelpText_53
+    21300108: HelpText_54
+    21300110: HelpText_55
+    21300112: HelpText_56
+    21300114: HelpText_57
+    21300116: HelpText_58
+    21300118: HelpText_59
+    21300120: HelpText_60
+    21300122: HelpText_61
+    21300124: HelpText_62
+    21300126: HelpText_63
+    21300128: HelpText_64
+    21300130: HelpText_65
+    21300132: HelpText_66
+    21300134: HelpText_67
+    21300136: HelpText_68
+    21300138: HelpText_69
+    21300140: HelpText_70
+    21300142: HelpText_71
+    21300144: HelpText_72
+    21300146: HelpText_73
+    21300148: HelpText_74
+    21300150: HelpText_75
+    21300152: HelpText_76
+    21300154: HelpText_77
+    21300156: HelpText_78
+    21300158: HelpText_79
+    21300160: HelpText_80
+    21300162: HelpText_81
+    21300164: HelpText_82
+    21300166: HelpText_83
+    21300168: HelpText_84
+    21300170: HelpText_85
+    21300172: HelpText_86
+    21300174: HelpText_87
+    21300176: HelpText_88
+    21300178: HelpText_89
+    21300180: HelpText_90
+    21300182: HelpText_91
+    21300184: HelpText_92
+    21300186: HelpText_93
+    21300188: HelpText_94
+    21300190: HelpText_95
+    21300192: HelpText_96
+    21300194: HelpText_97
+    21300196: HelpText_98
+    21300198: HelpText_99
+    21300200: HelpText_100
+    21300202: HelpText_101
+    21300204: HelpText_102
+    21300206: HelpText_103
+    21300208: HelpText_104
+    21300210: HelpText_105
+    21300212: HelpText_106
+    21300214: HelpText_107
+    21300216: HelpText_108
+    21300218: HelpText_109
+    21300220: HelpText_110
+    21300222: HelpText_111
+    21300224: HelpText_112
+    21300226: HelpText_113
+    21300228: HelpText_114
+    21300230: HelpText_115
+    21300232: HelpText_116
+    21300234: HelpText_117
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelpText_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 998
+        width: 649
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b087b40f0cc7e4eb44b7d0e47594eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 660
+        width: 753
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b35e4e2f599fbd4e99db54215edd74c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1221
+        width: 292
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ffa7d3abac9c4aa8cc6ec137b6ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1089
+        width: 225
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01561d180b9684cbd9960e8e3569be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 990
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d6f36ed818c6478b7133cde02d867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 849
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917314660ab6cc6498d4f57e39b63192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 839
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874f5ee22a1d014384282e168a1a32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 844
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63802843c3b594c8ad65eb831228b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 860
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d36c9a54383ec4cae64c42d095e40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_9
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1020
+        width: 949
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ef8f6b2a026d49bf8bc65d776a490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_10
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 877
+        width: 911
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb84a85e9ecc34982c02cac1bc588a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_11
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 553
+        width: 446
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658aad49acd5c943999566f4d5d2414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_12
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 593
+        width: 438
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b552f6547ff845aadaf6364299920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 272
+        width: 619
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb944a3eb3bdbd4f87ee47fbb405417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_14
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 250
+        width: 725
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab385ad61411d4bb63d5911c584ef0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 160
+        width: 573
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eaedf4017e98948b5c70f244b9e6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_16
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 669
+        width: 401
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e7ae403cf82b4685ba0f2a5bbe550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 774
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70668b59008c12f4dbfb9190cd2e004d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_18
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 106
+        width: 863
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1595991c2f2127f48a79fbdab3ecdf42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelpText_19
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 899
+        width: 350
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b889a2501c42429ebd97543a67a2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8cb330fd90f98d4eb21733acaada62d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
